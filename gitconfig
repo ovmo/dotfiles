@@ -55,8 +55,8 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = ovm@kketo.de
-	name = Oscar Moeller
+	email = ovm@ketko.de
+	name = Oscar von Moeller
 [filter "lfs"]
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f

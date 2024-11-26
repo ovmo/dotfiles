@@ -84,4 +84,7 @@
     "workbench.settings.useSplitJSON": true,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.panel.defaultLocation": "right",
+    "parallels-desktop.extension.path": "/Users/ovm/.parallels-desktop-vscode",
+    "workbench.colorTheme": "Visual Studio Dark",
+    "markdown-preview-enhanced.previewTheme": "atom-dark.css",
 }
